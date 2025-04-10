@@ -1,0 +1,14 @@
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\bin\Debug\net8.0\ArrayListTasarimi.exe
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\bin\Debug\net8.0\ArrayListTasarimi.deps.json
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\bin\Debug\net8.0\ArrayListTasarimi.runtimeconfig.json
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\bin\Debug\net8.0\ArrayListTasarimi.dll
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\bin\Debug\net8.0\ArrayListTasarimi.pdb
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\ArrayListTasarimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\ArrayListTasarimi.AssemblyInfoInputs.cache
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\ArrayListTasarimi.AssemblyInfo.cs
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\ArrayListTasarimi.csproj.CoreCompileInputs.cache
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\ArrayListTasarimi.dll
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\refint\ArrayListTasarimi.dll
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\ArrayListTasarimi.pdb
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\ArrayListTasarimi.genruntimeconfig.cache
+C:\Users\90552\Desktop\c#\ArrayListTasarimi\ArrayListTasarimi\obj\Debug\net8.0\ref\ArrayListTasarimi.dll
