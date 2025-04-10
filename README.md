@@ -18,7 +18,7 @@ Uygulama aşağıdaki işlemleri desteklemelidir:
 Veriler uygun sınıf yapıları ile tutulmalı ve tüm işlemler nesne tabanlı prensiplere uygun olarak yapılmalıdır.
 ### Kullanıcı Arayüzü:
 Windows Forms (GUI) ile kullanıcıların müşteri ekleyebileceği, halı takibi yapabileceği, ve halı durumlarını güncelleyebileceği bir arayüz tasarlanmalıdır.
-
+--
 ## Ödev 2 :
 Özelleştirilmiş Bir ArrayList Sınıfı (MyArrayList) Tasarlayınız.
 Bu sınıf:
