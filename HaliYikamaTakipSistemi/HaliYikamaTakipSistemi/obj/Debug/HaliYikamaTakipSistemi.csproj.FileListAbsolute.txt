@@ -1,0 +1,10 @@
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\bin\Debug\HaliYikamaTakipSistemi.exe.config
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\bin\Debug\HaliYikamaTakipSistemi.exe
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\bin\Debug\HaliYikamaTakipSistemi.pdb
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.Form1.resources
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.Properties.Resources.resources
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.csproj.GenerateResource.cache
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.exe
+C:\Users\90552\Desktop\c#\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.pdb
